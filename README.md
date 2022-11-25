@@ -55,8 +55,11 @@ warnings.filterwarnings(action='ignore')
 ---
 
 사용한 데이터는 이곳저곳에서 예시로 많이 사용되는 Iris dataset이다. 전체 instance은 150개이고, 3개 class(y) 각각의 instance 개수는 50개 이다. feature(x)는 4개의 연속변수로 구성되어 있다.
+
 ![iris](https://user-images.githubusercontent.com/106015570/204062293-f18defc5-21ad-46a9-a3f8-8698c204c0e8.PNG)
-차원을 2차원으로 축소하여 데이터 분포를 개략적으로 확인하면 아래와 같다.
+
+차원을 2차원으로 축소하여 데이터 분포를 시각적으로 확인하면 아래와 같다.
+
 ![dataset_distribution](https://user-images.githubusercontent.com/106015570/204062317-5a82b06b-1b94-41b1-9db3-3a5641ebe193.png
 
 아래 각각의 방법론 코드는 fitting - hyperparameter tuning(by grid search) - testing - evaluation의 4단계로 구성되어있으며, 단계별로 소요시간을 측정하였다.
