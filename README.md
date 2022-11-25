@@ -104,7 +104,7 @@ print(f"processing time {end_time - start_time}")
 
 1) Evaluation
 - confusion matrix
-||real 0|real 1|real 2|
+|  |real 0|real 1|real 2|
 |---|---|---|---|
 |pred 0| 10| 0| 0|
 |pred 1| 0| 10| 0|
@@ -160,7 +160,7 @@ print(f"processing time {end_time - start_time}")
 
 1) Evaluation
 - confusion matrix
-||real 0|real 1|real 2|
+|  |real 0|real 1|real 2|
 |---|---|---|---|
 |pred 0| 10| 0| 0|
 |pred 1| 0| 10| 0|
@@ -216,7 +216,7 @@ print(f"processing time {end_time - start_time}")
 
 1) Evaluation
 - confusion matrix
-||real 0|real 1|real 2|
+|  |real 0|real 1|real 2|
 |---|---|---|---|
 |pred 0| 10| 0| 0|
 |pred 1| 0| 10| 0|
