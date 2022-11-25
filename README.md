@@ -60,7 +60,7 @@ warnings.filterwarnings(action='ignore')
 
 차원을 2차원으로 축소하여 데이터 분포를 시각적으로 확인하면 아래와 같다.
 
-![dataset_distribution](https://user-images.githubusercontent.com/106015570/204062317-5a82b06b-1b94-41b1-9db3-3a5641ebe193.png
+![dataset_distribution](https://user-images.githubusercontent.com/106015570/204062317-5a82b06b-1b94-41b1-9db3-3a5641ebe193.png)
 
 아래 각각의 방법론 코드는 fitting - hyperparameter tuning(by grid search) - testing - evaluation의 4단계로 구성되어있으며, 단계별로 소요시간을 측정하였다.
 
