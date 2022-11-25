@@ -105,13 +105,14 @@ print(f"processing time {end_time - start_time}")
 1) Evaluation
 - confusion matrix
 |  |real 0|real 1|real 2|
-|---|---|---|---|
+|------|---|---|---|
 |pred 0| 10| 0| 0|
 |pred 1| 0| 10| 0|
 |pred 2| | 1| 9|
 
 - indicators of perfomance
 |class|precision|recall|F1|
+|------|---|---|---|
 |0|1.00|1.00|1.00|
 |1|0.91|1.00|0.95|
 |2|1.00|0.90|0.95|
@@ -161,13 +162,14 @@ print(f"processing time {end_time - start_time}")
 1) Evaluation
 - confusion matrix
 |  |real 0|real 1|real 2|
-|---|---|---|---|
+|------|---|---|---|
 |pred 0| 10| 0| 0|
 |pred 1| 0| 10| 0|
 |pred 2| | 1| 9|
 
 - indicators of perfomance
 |class|precision|recall|F1|
+|------|---|---|---|
 |0|1.00|1.00|1.00|
 |1|0.91|1.00|0.95|
 |2|1.00|0.90|0.95|
@@ -217,13 +219,14 @@ print(f"processing time {end_time - start_time}")
 1) Evaluation
 - confusion matrix
 |  |real 0|real 1|real 2|
-|---|---|---|---|
+|------|---|---|---|
 |pred 0| 10| 0| 0|
 |pred 1| 0| 10| 0|
 |pred 2| | 1| 9|
 
 - indicators of perfomance
 |class|precision|recall|F1|
+|------|---|---|---|
 |0|1.00|1.00|1.00|
 |1|0.91|1.00|0.95|
 |2|1.00|0.90|0.95|
